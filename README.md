@@ -1,15 +1,15 @@
 
-# 💊 Automatic Pill Dispenser using Arduino
+# Automatic Pill Dispenser using Arduino
 
 An Arduino-powered smart medication dispenser that ensures timely and accurate pill dispensing with multiple reminder systems. The system uses a servo motor to dispense pills, an LCD to display status, a buzzer for audio alerts, and Wi-Fi connectivity to send email notifications.
 
-> 🎓 **Pre-Final Year Summer Project**
-> 🏫 Madras Institute of Technology, Anna University  
-> 🗓️ August – December 2024
+>  **Pre-Final Year Summer Project**
+>  Madras Institute of Technology, Anna University  
+> August – December 2024
 
 ---
 
-## ✅ Features
+##  Features
 
 - Automated pill dispensing using a servo motor
 - LCD display showing time and device status
@@ -20,7 +20,7 @@ An Arduino-powered smart medication dispenser that ensures timely and accurate p
 
 ---
 
-## 🧰 Components Used
+## Components Used
 
 | Component              | Description                                      |
 |------------------------|--------------------------------------------------|
@@ -35,7 +35,7 @@ An Arduino-powered smart medication dispenser that ensures timely and accurate p
 
 ---
 
-## 💻 Software & Libraries
+##  Software & Libraries
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - `Servo.h` – Servo motor control  
@@ -46,7 +46,7 @@ An Arduino-powered smart medication dispenser that ensures timely and accurate p
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 automatic-pill-dispenser/
 ├── pill_dispenser.ino # Arduino source code
@@ -57,7 +57,7 @@ automatic-pill-dispenser/
 │ ├── pill_demo.jpg
 │ └── mail_screenshot.jpg
 ```
-## 🛠️ How to Use
+## How to Use
 
 1. Clone this repository.
 2. Open `pill_dispenser.ino` in Arduino IDE.
@@ -71,7 +71,7 @@ automatic-pill-dispenser/
 
 ---
 
-## 📷 Images
+##  Images
 
 
 ![Circuit Setup](images/circuit_diagram.jpg)
@@ -81,13 +81,13 @@ automatic-pill-dispenser/
 *Email sent from Arduino at scheduled time*
 
 ---
-## 📄 Report
+## Report
 
 📘 [View Final Project Report (PDF)](./PillDispenser_Report.pdf)
 
 ---
 
-## 👨‍🔧 Project Contributors
+## Project Contributors
 
 - **Keerthana U** – 2022504024  
 - **Yuvaraj V** – 2022504554  
@@ -101,7 +101,7 @@ MIT Campus, Anna University, Chennai.
 
 ---
 
-## 📚 References
+## References
 
 - [Science Buddies - Pill Dispenser](https://www.sciencebuddies.org/science-fair-projects/project-ideas/Elec_p105/electricity-electronics/automatic-pill-dispenser)
 - [Arduino Email Tutorial](https://newbiely.com/tutorials/arduino-uno-r4/arduino-uno-r4-email)
@@ -109,6 +109,6 @@ MIT Campus, Anna University, Chennai.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was developed for academic purposes. It is not a certified medical device. Use with caution and at your own risk.
